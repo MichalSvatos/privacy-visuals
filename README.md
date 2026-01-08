@@ -1,6 +1,10 @@
 # Privacy visuals
 This is a collection of my original illustrations that makes privacy concepts more understandable.
 
+## DISCLAIMER
+> - **ℹ️ LLM was used ONLY for the images.**
+> - **ℹ️ User photos are from [Random Face Generator (This Person Does Not Exist)](https://this-person-does-not-exist.com/en)**
+
 ## Images
 ➡️ see `/image-files`
 
@@ -8,6 +12,7 @@ This is a collection of my original illustrations that makes privacy concepts mo
 
 ## Various sources
 > ℹ️ In no particular order; WIP; continuously updated
+> 
 - heydata.eu: [WhatsApp & Data Privacy in 2025: What Users and Companies Need to Know Now](https://heydata.eu/en/magazine/whatsapp-privacy-2025/)
 - heydata.eu: [WhatsApp vs. Signal: Which Messenger Is Better for Data Protection](https://heydata.eu/en/magazine/data-protection-and-whats-app/)
 - medium.com: [I Know Which Device You Used Last Summer: Fingerprinting WhatsApp Users’ Devices](https://medium.com/@TalBeerySec/i-know-which-device-you-used-last-summer-fingerprinting-whatsapp-users-devices-71b21ac8dc70) ([archive.md version](https://archive.md/Zc8HI))
@@ -25,9 +30,13 @@ This is a collection of my original illustrations that makes privacy concepts mo
 - techradar.com: [WhatsApp encryption isn't the problem, metadata is](https://www.techradar.com/computing/cyber-security/whatsapp-encryption-isnt-the-problem-metadata-is)
 - ayanrayne.com: [WhatsApp Privacy Policy Explained — End-to-End Encryption Isn’t the Whole Story](https://ayanrayne.com/whatsapp-privacy-metadata-explained/)
 - fossbytes.com: [Metadata: Story Of How Whatsapp And Other Chat Apps Collect Data](https://fossbytes.com/whatsapp-chats-collect-data-metadata/)
+- signal.org [Government Requests](https://signal.org/bigbrother/)
 
 ---
 ## Changelog
+**1.0.2**
+- LLM use clarification
+
 **1.0.1**
 - NEW - new sources added
 
