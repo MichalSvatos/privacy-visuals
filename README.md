@@ -6,7 +6,7 @@ This is a collection of my original illustrations that makes privacy concepts mo
 > - **ℹ️ User photos are from [Random Face Generator (This Person Does Not Exist)](https://this-person-does-not-exist.com/en)**
 
 ## Images
-➡️ see `/image-files`
+➡️ see **🔗[/image-files](https://github.com/MichalSvatos/privacy-visuals/tree/main/image-files)**
 
 ### Not all encrypted messengers are created equal
 ![Not all encrypted messengers are created equal Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/e2ee-messengers--horizontal-preview.jpg)
@@ -18,7 +18,7 @@ _(So far only this, however I have a few other ideas.)_
 ## Wearable Visuals
 > ℹ️ These designs can be printed on T-shirts, stickers, pins, or used as wallpaper. They are organized in folders containing SVG and PNG files for easy sharing.
 
-Readme ➡️ [here](/wearable-visuals/README.md).
+Readme ➡️ **[here](/wearable-visuals/README.md)**.
 
 ## Various sources
 > ℹ️ In no particular order; WIP; continuously updated
