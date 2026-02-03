@@ -8,11 +8,21 @@ This is a collection of my original illustrations that makes privacy concepts mo
 ## Images
 ➡️ see `/image-files`
 
-(So far only _"Not all encrypted messengers are created equal."_, however I have a few other ideas.) 
+### Not all encrypted messengers are created equal
+![Not all encrypted messengers are created equal Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/e2ee-messengers--horizontal-preview.jpg)
+
+_(So far only this, however I have a few other ideas.)_
+
+
+
+## Wearable Visuals
+> ℹ️ These designs can be printed on T-shirts, stickers, pins, or used as wallpaper. They are organized in folders containing SVG and PNG files for easy sharing.
+
+Readme ➡️ [here](/wearable-visuals/README.md).
 
 ## Various sources
 > ℹ️ In no particular order; WIP; continuously updated
-> 
+>
 - heydata.eu: [WhatsApp & Data Privacy in 2025: What Users and Companies Need to Know Now](https://heydata.eu/en/magazine/whatsapp-privacy-2025/)
 - heydata.eu: [WhatsApp vs. Signal: Which Messenger Is Better for Data Protection](https://heydata.eu/en/magazine/data-protection-and-whats-app/)
 - medium.com: [I Know Which Device You Used Last Summer: Fingerprinting WhatsApp Users’ Devices](https://medium.com/@TalBeerySec/i-know-which-device-you-used-last-summer-fingerprinting-whatsapp-users-devices-71b21ac8dc70) ([archive.md version](https://archive.md/Zc8HI))
@@ -25,7 +35,7 @@ This is a collection of my original illustrations that makes privacy concepts mo
 - wired.com: [WhatsApp Has Shared Your Data With Facebook for Years, Actually](https://www.wired.com/story/whatsapp-facebook-data-share-notification/) ([archive.md version](https://archive.md/hTrZR))
 - themarkup.org: [Each Facebook User Is Monitored by Thousands of Companies - Consumer Reports](https://themarkup.org/privacy/2024/01/17/each-facebook-user-is-monitored-by-thousands-of-companies-study-indicates)
 - firewalltimes.com: [How Companies Track You Online – The Definitive Guide](https://firewalltimes.com/how-companies-track-you-online/)
-- medium.com: [How WhatsApp Secretly Collects and Shares Your Data](https://medium.com/illumination/how-whatsapp-secretly-collects-and-shares-your-data-26b643e45928) ([archive.md version](https://archive.md/j9Qkc#selection-341.0-341.51)) 
+- medium.com: [How WhatsApp Secretly Collects and Shares Your Data](https://medium.com/illumination/how-whatsapp-secretly-collects-and-shares-your-data-26b643e45928) ([archive.md version](https://archive.md/j9Qkc#selection-341.0-341.51))
 - medium.com: [What’s Hiding In Your WhatsApp Data?](https://novaiq.medium.com/whats-hiding-in-your-whatsapp-data-e940cdc8fa8a) ([archive.md version](https://archive.md/bb7KC))
 - techradar.com: [WhatsApp encryption isn't the problem, metadata is](https://www.techradar.com/computing/cyber-security/whatsapp-encryption-isnt-the-problem-metadata-is)
 - ayanrayne.com: [WhatsApp Privacy Policy Explained — End-to-End Encryption Isn’t the Whole Story](https://ayanrayne.com/whatsapp-privacy-metadata-explained/)
@@ -34,6 +44,10 @@ This is a collection of my original illustrations that makes privacy concepts mo
 
 ---
 ## Changelog
+**1.1.0**
+- NEW - Added "Wearable Visuals" section
+- NEW - "Commodities"
+
 **1.0.2**
 - LLM use clarification
 
