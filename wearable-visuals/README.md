@@ -18,3 +18,12 @@ see **🔗[/wearable-visuals/innocent](https://github.com/MichalSvatos/privacy-v
 ![Innocent Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/innocent/previews/innocent-outlined--preview.png) ![Innocent Inverted Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/innocent/previews/innocent-outlined-inverted--preview.png)
 
 ---
+
+### Convenient
+The convenience trap ...
+
+see **🔗[/wearable-visuals/convenient](https://github.com/MichalSvatos/privacy-visuals/tree/main/wearable-visuals/convenient)**
+
+![Convenient Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/convenient/previews/convenient-outlined--preview.png) ![Convenient Inverted Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/convenient/previews/convenient-outlined-inverted--preview.png)
+
+---
