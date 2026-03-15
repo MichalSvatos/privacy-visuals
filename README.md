@@ -2,14 +2,16 @@
 This is a collection of my original illustrations that makes privacy concepts more understandable.
 
 ## DISCLAIMER
-> - **ℹ️ LLM was used ONLY for the images.**
+> - **ℹ️ NO LLM/AI was used!**
 > - **ℹ️ User photos are from [Random Face Generator (This Person Does Not Exist)](https://this-person-does-not-exist.com/en)**
 
 ## Images
 ➡️ see **🔗[/image-files](https://github.com/MichalSvatos/privacy-visuals/tree/main/image-files)**
 
 ### Not all encrypted messengers are created equal
-![Not all encrypted messengers are created equal Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/e2ee-messengers--horizontal-preview.jpg)
+[![Not all encrypted messengers are created equal (horizontal) - preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/e2ee-messengers--horizontal-preview.jpg)](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/e2ee-messengers--horizontal.jpg)
+
+[![Not all encrypted messengers are created equal (vertical) - preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/e2ee-messengers--vertical-preview.jpg)](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/e2ee-messengers--vertical.jpg)
 
 _(So far only this, however I have a few other ideas.)_
 
@@ -44,6 +46,9 @@ Readme ➡️ **[here](/wearable-visuals/README.md)**.
 
 ---
 ## Changelog
+**1.1.1**
+- LLM generated background replaced by a real photo by [Markus Spiske](https://markusspiske.com/)
+
 **1.1.0**
 - NEW - Added "Wearable Visuals" section
 - NEW - "Commodities"
