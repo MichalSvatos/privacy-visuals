@@ -9,3 +9,12 @@ see **🔗[/wearable-visuals/commodities](https://github.com/MichalSvatos/privac
 ![Commodities Minimal Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/commodities/previews/commodities-minimal--preview.png) ![Commodities Brush Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/commodities/previews/commodities-brush--preview.png)
 
 ---
+
+### Innocent
+Anything can be taken out of context ...
+
+see **🔗[/wearable-visuals/innocent](https://github.com/MichalSvatos/privacy-visuals/tree/main/wearable-visuals/innocent)**
+
+![Innocent Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/innocent/previews/innocent-outlined--preview.png) ![Innocent Inverted Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/innocent/previews/innocent-outlined-inverted--preview.png)
+
+---
