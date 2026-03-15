@@ -27,3 +27,12 @@ see **🔗[/wearable-visuals/convenient](https://github.com/MichalSvatos/privacy
 ![Convenient Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/convenient/previews/convenient-outlined--preview.png) ![Convenient Inverted Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/convenient/previews/convenient-outlined-inverted--preview.png)
 
 ---
+
+### Age Verification
+Strip away the "protecting children" pretext and you'll find ...
+
+see **🔗[/wearable-visuals/age-verification](https://github.com/MichalSvatos/privacy-visuals/tree/main/wearable-visuals/age-verification)**
+
+![Age Verification Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/age-verification/previews/age-verification-outlined--preview.png) ![Age Verification Black and White Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/age-verification/previews/age-verification-bw-outlined--preview.png) ![Age Verification Black and White Inverted Preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/wearable-visuals/age-verification/previews/age-verification-bw-inverted-outlined--preview.png)
+
+---
