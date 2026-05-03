@@ -6,15 +6,18 @@ This is a collection of my original illustrations that makes privacy concepts mo
 > - **ℹ️ User photos are from [Random Face Generator (This Person Does Not Exist)](https://this-person-does-not-exist.com/en)**
 
 ## Images
-➡️ see **🔗[/image-files/encrypted-messengers](https://github.com/MichalSvatos/privacy-visuals/tree/main/image-files/encrypted-messengers)**
 
 ### Not all encrypted messengers are created equal
+➡️ see **🔗[/image-files/encrypted-messengers](https://github.com/MichalSvatos/privacy-visuals/tree/main/image-files/encrypted-messengers)**
+
 [![Not all encrypted messengers are created equal (horizontal) - preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/encrypted-messengers/previews/e2ee-messengers--horizontal-preview.jpg)](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/encrypted-messengers/e2ee-messengers--horizontal.jpg)
 
 [![Not all encrypted messengers are created equal (vertical) - preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/encrypted-messengers/previews/e2ee-messengers--vertical-preview.jpg)](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/encrypted-messengers/e2ee-messengers--vertical.jpg)
 
-_(So far only this, however I have a few other ideas.)_
+### (An)other side of ~~age verification~~ identity collection
+➡️ see **🔗[/image-files/another-side](https://github.com/MichalSvatos/privacy-visuals/tree/main/image-files/another-side)**
 
+[![(An)other side of age verification - preview](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/another-side/previews/another-side-of-age-verification-preview.webp)](https://github.com/MichalSvatos/privacy-visuals/raw/main/image-files/another-side/another-side-of-age-verification.webp)
 
 
 ## Wearable Visuals
@@ -46,6 +49,9 @@ Readme ➡️ **[here](/wearable-visuals/README.md)**.
 
 ---
 ## Changelog
+**1.2.0**
+- NEW - (An)other side of ~~age verification~~ identity collection; illustration by [Fast Ink](https://unsplash.com/@fadhilsanad/illustrations); heavily edited
+
 **1.1.2**
 - New file structure for the privacy visuals section
 
